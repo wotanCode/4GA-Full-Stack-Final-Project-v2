@@ -1,5 +1,4 @@
-# RedSystem - Final Project 4GeeksAcademy
-
+# RedSystem - Final Project 4GeeksAcademy Frontend
 
 ### Descripción
 <p>Proyecto basado en una empresa ficticia de telecomunicaciones la cual se encargá de administrar sus contratos de trabajo, donde cada contrato tiene además órdenes específicas o actividades por hacer.</p>
@@ -24,3 +23,13 @@ Este repositorio debe ejecutarse en conjunto con el repositorio `4GA-RedSystem-F
 ```
 npm run start
 ```
+
+<hr/>
+
+### Main Developers
+[![Contribuidores](https://contrib.rocks/image?repo=wotanCode/4GeeksAcademy-RedSystem-Full-Stack-Final-Project-Frontend-2021&max=500&columns=20)](https://github.com/wotanCode/4GeeksAcademy-RedSystem-Full-Stack-Final-Project-Frontend-2021/graphs/contributors)
+
+<hr/>
+
+### Licencia
+Este proyecto está bajo la Licencia MIT.
